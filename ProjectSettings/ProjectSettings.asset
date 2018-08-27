@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 14
-  productGUID: 00000000000000000000000000000000
+  productGUID: 192ec03c7324f8741abe97394873f06c
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   defaultScreenOrientation: 3
@@ -748,7 +748,7 @@ PlayerSettings:
   facebookSdkVersion: 7.9.1
   apiCompatibilityLevel: 2
   cloudProjectId: cc895319-e833-44dc-9ba2-a918401e6b59
-  projectName: New Unity Project (1)
+  projectName: God's Will
   organizationId: guilhermeqb
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
